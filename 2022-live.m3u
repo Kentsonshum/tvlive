@@ -6,15 +6,15 @@ http://tv:tv@live2022ct.stream-link.org:8080/tv-playlist/stream/channel/8fada9c4
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="TVB",无线财经·体育·资讯台
 http://tv:tv@live2022ct.stream-link.org:8080/tv-playlist/stream/channel/5d6fe9467dbd5e812b0cf9345e3a243a
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="" group-title="RTHK",港台电视31
-http://tv:tv@live2022ct.stream-link.org:8080/tv-playlist/stream/channel/135a8fe135a62fb0d1a3c9bc3062f5b9
+http://tv:tv@live2022ct.stream-link.org:8080/tv-playlist/stream/channel/5f1ba1fd57f9c9d66f8d0c4242f55de8
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="" group-title="RTHK",港台电视32
 http://tv:tv@live2022ct.stream-link.org:8080/tv-playlist/stream/channel/0dcc8bf518a7dbbb5821a1dd37ce8274
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="Viu",ViuTV
 http://tv:tv@live2022ct.stream-link.org:8080/tv-playlist/stream/channel/f469eec7420bf549d17d8f603bdae279
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="HKC",有线新闻台
-http://tv:tv@live2022ct.stream-link.org:8080/tv-playlist/stream/channel/0cc06987c64e23dd1ba0ccebdfa81fc4
+http://tv:tv@live2022ct.stream-link.org:8080/tv-playlist/stream/channel/a81f91ca5c9e5b6e276c59d303df1a9c
 #EXTINF:-1 tvg-id="7119" tvg-name="有线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="HKC",有线财经资讯台
-http://tv:tv@live2022ct.stream-link.org:8080/tv-playlist/stream/channel/088298a4be714d716f43e5c660450355
+http://tv:tv@live2022ct.stream-link.org:8080/tv-playlist/stream/channel/43893a9190a863222a6774db8dd06be7
 
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="" group-title="nowTV",now新闻台
 https://live2022ct.stream-link.org/tv-live/01
