@@ -19,6 +19,8 @@ https://live2022ct.stream-link.org/tv-live/08
 https://live2022ct.stream-link.org/tv-live/09
 #EXTINF:-1 tvg-id="7119" tvg-name="有线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="HKC",有线财经资讯台
 https://live2022ct.stream-link.org/tv-live/10
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="HKC",香港开电视
+https://live2022ct.stream-link.org/tv-live/13
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="" group-title="nowTV",now新闻台
 https://live2022ct.stream-link.org/tv-live/01
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="" group-title="nowTV",now财经台
