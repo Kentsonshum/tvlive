@@ -11,6 +11,24 @@ jobs:
       run: |
         sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
         sudo chmod a+rx /usr/local/bin/youtube-dl
+    - name: Get ebc-news.m3u8
+      run: |
+        touch ./ebc-news.m3u8
+        sudo cat >./ebc-news.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=540000
+        $(youtube-dl -g https://www.youtube.com/watch?v=R2iMq5LKXco)
+        EOL
+    - name: Get ebc-finance.m3u8
+      run: |
+        touch ./ebc-finance.m3u8
+        sudo cat >./ebc-finance.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=540000
+        $(youtube-dl -g https://www.youtube.com/watch?v=ABn_ccXn_jc)
+        EOL
     - name: Get ebcyoyo.m3u8
       run: |
         touch ./ebcyoyo.m3u8
@@ -19,6 +37,60 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=540000
         $(youtube-dl -g https://www.youtube.com/c/yoyotvebc/live)
+        EOL
+    - name: Get cti-news.m3u8
+      run: |
+        touch ./cti-news.m3u8
+        sudo cat >./cti-news.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=540000
+        $(youtube-dl -g https://www.youtube.com/watch?v=_QbRXRnHMVY)
+        EOL
+    - name: Get ctv-news.m3u8
+      run: |
+        touch ./ctv-news.m3u8
+        sudo cat >./ctv-news.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=540000
+        $(youtube-dl -g https://www.youtube.com/watch?v=TCnaIE_SAtM)
+        EOL
+    - name: Get ftv-news.m3u8
+      run: |
+        touch ./ftv-news.m3u8
+        sudo cat >./ftv-news.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=540000
+        $(youtube-dl -g https://www.youtube.com/watch?v=ylYJSBUgaMA)
+        EOL
+    - name: Get set-inews.m3u8
+      run: |
+        touch ./set-inews.m3u8
+        sudo cat >./set-inews.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=540000
+        $(youtube-dl -g https://www.youtube.com/watch?v=CKjSm5ZeehE)
+        EOL
+    - name: Get set-news.m3u8
+      run: |
+        touch ./set-news.m3u8
+        sudo cat >./set-news.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=540000
+        $(youtube-dl -g https://www.youtube.com/watch?v=EB4g7wecgTI)
+        EOL
+    - name: Get hy-news.m3u8
+      run: |
+        touch ./hy-news.m3u8
+        sudo cat >./hy-news.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(youtube-dl -g https://www.youtube.com/watch?v=B7Zp3d6xXWw)
         EOL
     - name: Get hyxw.m3u8
       run: |
@@ -29,14 +101,32 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(youtube-dl -g https://www.youtube.com/channel/UCp2f7tGJGN6R9Muxipem8Nw/live)
         EOL
-    - name: Get tvbsnews.m3u8
+    - name: Get ttv-news.m3u8
       run: |
-        touch ./tvbsnews.m3u8
-        sudo cat >./tvbsnews.m3u8 <<EOL
+        touch ./ttv-news.m3u8
+        sudo cat >./ttv-news.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(youtube-dl -g https://www.youtube.com/watch?v=EB4g7wecgTI)
+        EOL
+    - name: Get tvbs-news.m3u8
+      run: |
+        touch ./tvbs-news.m3u8
+        sudo cat >./tvbs-news.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(youtube-dl -g https://www.youtube.com/watch?v=2mCSYvcfhtc)
+        EOL
+    - name: Get tvbs.m3u8
+      run: |
+        touch ./tvbs.m3u8
+        sudo cat >./tvbs.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(youtube-dl -g https://www.youtube.com/watch?v=YvdcZ_jpLXE)
         EOL
     - name : Upload artifact
       uses: actions/upload-artifact@master
