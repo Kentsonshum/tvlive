@@ -11,6 +11,15 @@ jobs:
       run: |
         sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
         sudo chmod a+rx /usr/local/bin/youtube-dl
+    - name: Get cctv4.m3u8
+      run: |
+        touch ./cctv4.m3u8
+        sudo cat >./cctv4.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=540000
+        $(youtube-dl -g https://www.youtube.com/watch?v=QTz6avPD4Ns)
+        EOL
     - name: Get ebc-news.m3u8
       run: |
         touch ./ebc-news.m3u8
@@ -127,6 +136,33 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(youtube-dl -g https://www.youtube.com/watch?v=YvdcZ_jpLXE)
+        EOL
+    - name: Get tvbs-live.m3u8
+      run: |
+        touch ./tvbs-live.m3u8
+        sudo cat >./tvbs-live.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(youtube-dl -g https://www.youtube.com/watch?v=6Wj8Y-v0z5s)
+        EOL
+    - name: Get cts-zy.m3u8
+      run: |
+        touch ./cts-zy.m3u8
+        sudo cat >./cts-zy.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(youtube-dl -g https://www.youtube.com/watch?v=SC4g_bmTro8)
+        EOL
+    - name: Get cts-news.m3u8
+      run: |
+        touch ./cts-news.m3u8
+        sudo cat >./cts-news.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(youtube-dl -g https://www.youtube.com/watch?v=wM0g8EoUZ_E)
         EOL
     - name : Upload artifact
       uses: actions/upload-artifact@master
