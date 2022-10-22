@@ -34,7 +34,7 @@ https://live2022.stream-link.org/tv-live/075bccdb2aaf49774f5a36dadd95c804
 https://live2022.stream-link.org/tv-live/694979d5c960d7499c88d7cab8ffceaa
 #EXTINF:-1 tvg-id="7122" tvg-name="有線新聞台" tvg-logo="https://or00.stream-link.org/tv_logo/hkc-news.png" group-title="有線電視",有線新聞台
 https://live2022.stream-link.org/tv-live/b5c91a68bccf40906de1c05712956220?profile=matroska
-#EXTINF:-1 tvg-id="7119" tvg-name="有線財經資訊台" tvg-logo="https://or00.stream-link.org/tv_logo/hkc-info.png" group-title="有線電視",有線財經資訊台
+#EXTINF:-1 tvg-id="7119" tvg-name="有線財經資訊台" tvg-logo="https://or00.stream-link.org/tv_logo/hkc-finance.png" group-title="有線電視",有線財經資訊台
 https://live2022.stream-link.org/tv-live/4474c1b1460e88c68f564723039d0924?profile=matroska
 #EXTINF:-1 tvg-id="7119" tvg-name="有線直播台" tvg-logo="https://or00.stream-link.org/tv_logo/hkc-live.png" group-title="有線電視",有線直播台
 https://live2022.stream-link.org/tv-live/1cd160391b6a8571eb0e3016c6f6de22?profile=matroska
@@ -50,13 +50,13 @@ https://live2022.stream-link.org/tv-live/56e6b296c2f08a6e160c393b880e7b0a
 https://live2022.stream-link.org/tv-live/bfb4dc842cf3305888d44763255d607b
 #EXTINF:-1 tvg-id="142" tvg-name="鳳凰資訊" tvg-logo="https://or00.stream-link.org/tv_logo/phtv-info.png" group-title="鳳凰衛視",鳳凰資訊台
 https://live2022.stream-link.org/tv-live/b25a43a51adca9ca7a66f1ba24e672c9
-#EXTINF:-1 tvg-id="141" tvg-name="鳳凰中文" tvg-logo="https://or00.stream-link.org/tv_logo/phtv-live" group-title="鳳凰衛視",鳳凰中文台
+#EXTINF:-1 tvg-id="141" tvg-name="鳳凰中文" tvg-logo="https://or00.stream-link.org/tv_logo/phtv-live.png" group-title="鳳凰衛視",鳳凰中文台
 https://live2022.stream-link.org/tv-live/1cd7bd7dfda01b239a669c48d41151d3
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://or00.stream-link.org/tv_logo/cctv4.png" group-title="中國新聞",CCTV4中文國際
 https://live2022.stream-link.org/tv-live/e5829ab3e550e3bc7360c3e76ca75869
 #EXTINF:-1 tvg-id="6069" tvg-name="東森新聞" tvg-logo="https://or00.stream-link.org/tv_logo/ebc-news.png" group-title="台灣新聞",東森新聞
 https://live2022.stream-link.org/tv-live/92837cd63722049f72b1f34264326f7c
-#EXTINF:-1 tvg-id="6075" tvg-name="東森財經新聞" tvg-logo="https://or00.stream-link.org/tv_logo/ebc-finance.pngg" group-title="台灣新聞",東森財經新聞
+#EXTINF:-1 tvg-id="6075" tvg-name="東森財經新聞" tvg-logo="https://or00.stream-link.org/tv_logo/ebc-finance.png" group-title="台灣新聞",東森財經新聞
 https://live2022.stream-link.org/tv-live/1e410870a02d14f7ef03db36d1696a6f
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://or00.stream-link.org/tv_logo/cti-news.png" group-title="台灣新聞",中天新聞
 https://live2022.stream-link.org/tv-live/f7b100e93a0b4ef5cb97b67e3546ccd8
@@ -80,5 +80,5 @@ https://live2022.stream-link.org/tv-live/d260ff9735896fd230b91cd7ab6d8c73
 https://live2022.stream-link.org/tv-live/33eef314afe6d235f901b6796328324c
 #EXTINF:-1 tvg-id="6069" tvg-name="東森yoyo" tvg-logo="https://or00.stream-link.org/tv_logo/ebc-yoyo.png" group-title="台灣",東森yoyo
 https://live2022.stream-link.org/tv-live/dbed2be8bff8d23225f150e382645ea9
-#EXTINF:-1 tvg-id="" tvg-name="華視綜藝" tvg-logo="" group-title="華視綜藝",天才衝衝衝
+#EXTINF:-1 tvg-id="" tvg-name="華視綜藝" tvg-logo="https://or00.stream-link.org/tv_logo/cts-zy.png" group-title="華視綜藝",天才衝衝衝
 https://live2022.stream-link.org/tv-live/74a0165989d71a13d66dadaacee65333
