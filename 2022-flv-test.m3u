@@ -1,32 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="https://or00.stream-link.org/tv_logo/tvb-jade.png" group-title="TVB",翡翠台
-https://live2022ct.stream-link.org/flv-live/tvb-81
-#EXTINF:-1 tvg-id="130" tvg-name="無綫新聞台" tvg-logo="https://or00.stream-link.org/tv_logo/tvb-news.png" group-title="[TVB]",無綫新聞台(海外)
-https://live2022ct.stream-link.org/flv-live/tvb-83
-#EXTINF:-1 tvg-id="133" tvg-name="無綫財經·體育·資訊台" tvg-logo="https://or00.stream-link.org/tv_logo/tvb-finance.png" group-title="[TVB]",無綫財經·體育·資訊台(海外)
-https://live2022ct.stream-link.org/flv-live/tvb-85
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="https://or00.stream-link.org/tv_logo/viutv.png" group-title="Viu",ViuTV
-https://live2022ct.stream-link.org/flv-live/viutv
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://or00.stream-link.org/tv_logo/rthk31.png" group-title="RTHK",港台电视31
-https://live2022ct.stream-link.org/flv-live/rthk-31
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://or00.stream-link.org/tv_logo/rthk32.png" group-title="RTHK",港台电视32
-https://live2022ct.stream-link.org/flv-live/rthk-32
-#EXTINF:-1 tvg-id="7122" tvg-name="有線新聞台" tvg-logo="https://or00.stream-link.org/tv_logo/hkc-news.png" group-title="[有線電視]",有線新聞台
-https://live2022ct.stream-link.org/flv-live/hkc-news
-#EXTINF:-1 tvg-id="7119" tvg-name="有線財經資訊台" tvg-logo="https://or00.stream-link.org/tv_logo/hkc-info.png" group-title="[有線電視]",有線財經資訊台
-https://live2022ct.stream-link.org/flv-live/hkc-finance
-#EXTINF:-1 tvg-id="9999" tvg-name="now新聞台" tvg-logo="https://or00.stream-link.org/tv_logo/now-news.png" group-title="[now TV]",now新聞
-https://live2022ct.stream-link.org/flv-live/now-news
-#EXTINF:-1 tvg-id="9999" tvg-name="now財經台" tvg-logo="https://or00.stream-link.org/tv_logo/now-finance.png" group-title="[now TV]",now財經台
-https://live2022ct.stream-link.org/flv-live/now-finance
-#EXTINF:-1 tvg-id="9999" tvg-name="now精選體育台" tvg-logo="https://or00.stream-link.org/tv_logo/now-sports.png" group-title="[now TV]",now精選體育台
-https://live2022ct.stream-link.org/flv-live/now-sports
-#EXTINF:-1 tvg-id="7118" tvg-name="香港開電視" tvg-logo="https://or00.stream-link.org/tv_logo/hoy.png" group-title="HKC",香港開電視
-https://live2022ct.stream-link.org/flv-live/hoy
-#EXTINF:-1 tvg-id="142" tvg-name="鳳凰資訊" tvg-logo="https://or00.stream-link.org/tv_logo/phtv-info.png" group-title="[鳳凰衛視]",鳳凰資訊台
-https://live2022ct.stream-link.org/flv-live/phtv-info
-#EXTINF:-1 tvg-id="141" tvg-name="鳳凰中文" tvg-logo="https://or00.stream-link.org/tv_logo/phtv-live" group-title="[鳳凰衛視]",鳳凰中文台
-https://live2022ct.stream-link.org/flv-live/phtv-live
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://or00.stream-link.org/tv_logo/cctv4.png" group-title="中國新聞",CCTV4中文國際
 https://live2022ct.stream-link.org/flv-live/cctv-4
 #EXTINF:-1 tvg-id="6069" tvg-name="東森新聞" tvg-logo="https://or00.stream-link.org/tv_logo/ebc-news.png" group-title="tw-news",東森新聞
