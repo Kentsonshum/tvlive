@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="130" tvg-name="無綫新聞台" tvg-logo="https://or00.stream-link.org/tv_logo/tvb-news.png" group-title="[TVB]電視廣播",無綫新聞台(海外)
+#EXTINF:-1 tvg-id="130" tvg-name="翡翠台" tvg-logo="https://or00.stream-link.org/tv_logo/tvb-jade.png" group-title="[TVB]",翡翠台
+https://live2020.stream-link.org/tv-live/176975190
+#EXTINF:-1 tvg-id="130" tvg-name="無綫新聞台" tvg-logo="https://or00.stream-link.org/tv_logo/tvb-news.png" group-title="[TVB]",無綫新聞台(海外)
 https://live2020.stream-link.org/tv-live/700258515
 #EXTINF:-1 tvg-id="133" tvg-name="無綫財經·體育·資訊台" tvg-logo="https://or00.stream-link.org/tv_logo/tvb-finance.png" group-title="[TVB]",無綫財經·體育·資訊台(海外)
 https://live2020.stream-link.org/tv-live/892499676
@@ -29,7 +31,7 @@ https://live2022.stream-link.org/tv-live/454084562
 https://live2022.stream-link.org/tv-live/253793628
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://or00.stream-link.org/tv_logo/rthk32.png" group-title="RTHK",港台电视32
 https://live2022.stream-link.org/tv-live/1350465541
-#EXTINF:-1 tvg-id="130" tvg-name="無綫新聞台" tvg-logo="https://or00.stream-link.org/tv_logo/tvb-news.png" group-title="[TVB]電視廣播",無綫新聞台(海外)
+#EXTINF:-1 tvg-id="130" tvg-name="無綫新聞台" tvg-logo="https://or00.stream-link.org/tv_logo/tvb-news.png" group-title="[TVB]",無綫新聞台(海外)
 https://live2022.stream-link.org/tv-live/442636002
 #EXTINF:-1 tvg-id="133" tvg-name="無綫財經·體育·資訊台" tvg-logo="https://or00.stream-link.org/tv_logo/tvb-finance.png" group-title="[TVB]",無綫財經·體育·資訊台(海外)
 https://live2022.stream-link.org/tv-live/1764106014
