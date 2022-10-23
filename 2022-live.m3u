@@ -22,6 +22,12 @@ https://live2020.stream-link.org/tv-live/c71458816af11ca5d3182477706e618f
 
 #EXTINF:-1 tvg-id="416" tvg-name="翡翠台" tvg-logo="https://or00.stream-link.org/tv_logo/tvb-jade.png" group-title="TVB",翡翠台
 https://live2022.stream-link.org/tv-live/e2a260156a4f8bf803fd056883ff09cb?profile=pass
+#EXTINF:-1 tvg-id="416" tvg-name="華麗(翡翠台)1" tvg-logo="https://or00.stream-link.org/tv_logo/astro-jade.png" group-title="astro",華麗(翡翠台)1
+https://live2022.stream-link.org/tv-live/f82f094992badb73b885c047d09e32a5
+#EXTINF:-1 tvg-id="416" tvg-name="華麗(翡翠台)2" tvg-logo="https://or00.stream-link.org/tv_logo/astro-jade.png" group-title="astro",華麗(翡翠台)2
+https://live2022.stream-link.org/tv-live/02cadcb16de31d682065188d3ec1bea8
+#EXTINF:-1 tvg-id="416" tvg-name="全佳台" tvg-logo="https://or00.stream-link.org/tv_logo/astro-qj.png" group-title="astro",全佳台
+https://live2022.stream-link.org/tv-live/409acd3234b661a5dc1feef426116e1b
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="https://or00.stream-link.org/tv_logo/viutv.png" group-title="Viu",ViuTV
 https://live2022.stream-link.org/tv-live/d2c7101bc2c8c6a4ac432c7562a17041?profile=pass
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://or00.stream-link.org/tv_logo/rthk31.png" group-title="RTHK",港台电视31
@@ -82,3 +88,5 @@ https://live2022.stream-link.org/tv-live/33eef314afe6d235f901b6796328324c
 https://live2022.stream-link.org/tv-live/dbed2be8bff8d23225f150e382645ea9
 #EXTINF:-1 tvg-id="" tvg-name="華視綜藝" tvg-logo="https://or00.stream-link.org/tv_logo/cts-zy.png" group-title="華視綜藝",天才衝衝衝
 https://live2022.stream-link.org/tv-live/74a0165989d71a13d66dadaacee65333
+#EXTINF:-1 tvg-id="" tvg-name="中天綜合" tvg-logo="https://or00.stream-link.org/tv_logo/cti-zh.png" group-title="中天綜合",中天綜合
+https://live2022.stream-link.org/tv-live/6fc55aafdd838ae32a58e0e7ad3b5dd1
