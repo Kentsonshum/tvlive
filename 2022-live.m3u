@@ -20,8 +20,6 @@ https://live2020.stream-link.org/tv-live/124e5af4ac2e7c9d8f2f39a86bb42487
 #EXTINF:-1 tvg-id="141" tvg-name="鳳凰中文" tvg-logo="https://or00.stream-link.org/tv_logo/phtv-live" group-title="鳳凰衛視",鳳凰中文台
 https://live2020.stream-link.org/tv-live/c71458816af11ca5d3182477706e618f
 
-#EXTINF:-1 tvg-id="416" tvg-name="翡翠台" tvg-logo="https://or00.stream-link.org/tv_logo/tvb-jade.png" group-title="TVB",翡翠台
-https://live2022.stream-link.org/tv-live/e2a260156a4f8bf803fd056883ff09cb?profile=pass
 #EXTINF:-1 tvg-id="416" tvg-name="華麗(翡翠台)1" tvg-logo="https://or00.stream-link.org/tv_logo/astro-jade.png" group-title="astro",華麗(翡翠台)1
 https://live2022.stream-link.org/tv-live/f82f094992badb73b885c047d09e32a5
 #EXTINF:-1 tvg-id="416" tvg-name="華麗(翡翠台)2" tvg-logo="https://or00.stream-link.org/tv_logo/astro-jade.png" group-title="astro",華麗(翡翠台)2
@@ -86,9 +84,17 @@ https://live2022.stream-link.org/tv-live/d260ff9735896fd230b91cd7ab6d8c73
 https://live2022.stream-link.org/tv-live/33eef314afe6d235f901b6796328324c
 #EXTINF:-1 tvg-id="6069" tvg-name="東森yoyo" tvg-logo="https://or00.stream-link.org/tv_logo/ebc-yoyo.png" group-title="台灣",東森yoyo
 https://live2022.stream-link.org/tv-live/dbed2be8bff8d23225f150e382645ea9
-#EXTINF:-1 tvg-id="" tvg-name="台灣綜藝節目" tvg-logo="https://or00.stream-link.org/tv_logo/cts-zy.png" group-title="台灣綜藝節目",天才衝衝衝
+#EXTINF:-1 tvg-id="" tvg-name="台灣綜藝節目" tvg-logo="https://or00.stream-link.org/tv_logo/cts-zy.png" group-title="台灣綜藝",天才衝衝衝
 https://live2022.stream-link.org/tv-live/74a0165989d71a13d66dadaacee65333
-#EXTINF:-1 tvg-id="" tvg-name="台灣綜藝節目" tvg-logo="https://or00.stream-link.org/tv_logo/cti-zh.png" group-title="台灣綜藝節目",中天綜合台
+#EXTINF:-1 tvg-id="" tvg-name="台灣綜藝節目" tvg-logo="https://or00.stream-link.org/tv_logo/cti-zh.png" group-title="台灣綜藝",中天綜合台
 https://live2022.stream-link.org/tv-live/6fc55aafdd838ae32a58e0e7ad3b5dd1
-#EXTINF:-1 tvg-id="" tvg-name="台灣綜藝節目" tvg-logo="https://or00.stream-link.org/tv_logo/set-zh.png" group-title="台灣綜藝節目",三立綜合台
+#EXTINF:-1 tvg-id="" tvg-name="台灣綜藝節目" tvg-logo="https://or00.stream-link.org/tv_logo/set-zh.png" group-title="台灣綜藝",三立綜合台
 https://live2022.stream-link.org/tv-live/94cf543bbfdfe54c83a520ec4b3dbf20
+#EXTINF:-1 tvg-id="7134" tvg-name="民視台灣台" tvg-logo="https://or00.stream-link.org/tv_logo/ftv-tw.png" group-title="台灣綜藝",民視台灣台
+https://live2022.stream-link.org/tv-live/52e36357e2bdf8eb8d1beb53365002b5
+#EXTINF:-1 tvg-id="6046" tvg-name="八大綜藝台" tvg-logo="https://or00.stream-link.org/tv_logo/gtv-zy.png" group-title="台灣綜藝",八大綜藝台
+https://live2022.stream-link.org/tv-live/fbc93d52099c097f92efe4060d2c2172
+#EXTINF:-1 tvg-id="7138" tvg-name="TVBS精彩台" tvg-logo="https://or00.stream-link.org/tv_logo/tvbs-jc.png" group-title="台灣綜藝",TVBS精彩台
+https://live2022.stream-link.org/tv-live/7416c1c540668add290a1581beae3d5a
+#EXTINF:-1 tvg-id="6060" tvg-name="TVBS歡樂台" tvg-logo="https://or00.stream-link.org/tv_logo/tvbs-hl.png" group-title="台灣綜藝",TVBS歡樂台
+https://live2022.stream-link.org/tv-live/e1e6a7ba9bee736f6ed80a65fae0caf4
