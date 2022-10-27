@@ -1,4 +1,6 @@
 #EXTM3
+#EXTINF:-1 tvg-id="416" tvg-name="翡翠台" tvg-logo="https://or00.stream-link.org/tv_logo/tvb-jade.png" group-title="TVB",翡翠台
+https://live2020.stream-link.org/tv-live/37675d0e6dbb17c1cf6620524d98851d
 #EXTINF:-1 tvg-id="130" tvg-name="無綫新聞台" tvg-logo="https://or00.stream-link.org/tv_logo/tvb-news.png" group-title="TVB",無綫新聞台(海外)
 https://live2020.stream-link.org/tv-live/b5cfad43cc044ec4d383837d71fc9333
 #EXTINF:-1 tvg-id="133" tvg-name="無綫財經·體育·資訊台" tvg-logo="https://or00.stream-link.org/tv_logo/tvb-finance.png" group-title="TVB",無綫財經·體育·資訊台(海外)
@@ -21,7 +23,7 @@ https://live2020.stream-link.org/tv-live/124e5af4ac2e7c9d8f2f39a86bb42487
 https://live2020.stream-link.org/tv-live/c71458816af11ca5d3182477706e618f
 
 #EXTINF:-1 tvg-id="416" tvg-name="翡翠台" tvg-logo="https://or00.stream-link.org/tv_logo/tvb-jade.png" group-title="TVB",翡翠台
-https://live2022.stream-link.org/tv-live/8a151cb124066be9db54b366a9ca46af
+https://live2022.stream-link.org/tv-live/65dd5ee32560eeb33eb55e19a72b072d
 #EXTINF:-1 tvg-id="416" tvg-name="華麗(翡翠台)1" tvg-logo="https://or00.stream-link.org/tv_logo/astro-jade.png" group-title="astro",華麗(翡翠台)1
 https://live2022.stream-link.org/tv-live/f82f094992badb73b885c047d09e32a5
 #EXTINF:-1 tvg-id="416" tvg-name="華麗(翡翠台)2" tvg-logo="https://or00.stream-link.org/tv_logo/astro-jade.png" group-title="astro",華麗(翡翠台)2
@@ -31,7 +33,7 @@ https://live2022.stream-link.org/tv-live/409acd3234b661a5dc1feef426116e1b
 #EXTINF:-1 tvg-id="130" tvg-name="J2" tvg-logo="https://or00.stream-link.org/tv_logo/tvb-j2.png" group-title="TVB",J2
 https://live2022.stream-link.org/tv-live/78072d461caa149c07d8d86ee47afda9
 #EXTINF:-1 tvg-id="130" tvg-name="無綫新聞台" tvg-logo="https://or00.stream-link.org/tv_logo/tvb-news.png" group-title="TVB",無綫新聞台
-https://live2022.stream-link.org/tv-live/c2b613e86600d05f572404dd71faea3e
+https://live2022.stream-link.org/tv-live/97d63d8616ecb0e523c355efd2c6472e
 #EXTINF:-1 tvg-id="133" tvg-name="無綫財經·體育·資訊台" tvg-logo="https://or00.stream-link.org/tv_logo/tvb-finance.png" group-title="TVB",無綫財經·體育·資訊台
 https://live2022.stream-link.org/tv-live/56ea55a376ccb7a0922d38d81f9f2331
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="https://or00.stream-link.org/tv_logo/viutv.png" group-title="Viu",ViuTV
