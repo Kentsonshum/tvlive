@@ -36,8 +36,6 @@ https://live2022.stream-link.org/tv-live/78072d461caa149c07d8d86ee47afda9
 https://live2022.stream-link.org/tv-live/97d63d8616ecb0e523c355efd2c6472e
 #EXTINF:-1 tvg-id="133" tvg-name="無綫財經·體育·資訊台" tvg-logo="https://or00.stream-link.org/tv_logo/tvb-finance.png" group-title="TVB",無綫財經·體育·資訊台
 https://live2022.stream-link.org/tv-live/56ea55a376ccb7a0922d38d81f9f2331
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="https://or00.stream-link.org/tv_logo/viutv.png" group-title="Viu",ViuTV
-https://live2022.stream-link.org/tv-live/945ddb0ed3940bbe2a048585713a9845
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://or00.stream-link.org/tv_logo/rthk31.png" group-title="RTHK",港台电视31
 https://live2022.stream-link.org/tv-live/23985f120f6adf96bff25a40fdef8d4a?profile=matroska
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://or00.stream-link.org/tv_logo/rthk32.png" group-title="RTHK",港台电视32
@@ -80,12 +78,16 @@ https://live2022.stream-link.org/tv-live/6deb53eeaf78905c68ac0e47ebf7e130
 https://live2022.stream-link.org/tv-live/570ea84c25d58d7625306cc81f5d907e
 #EXTINF:-1 tvg-id="6071" tvg-name="民視新聞" tvg-logo="https://or00.stream-link.org/tv_logo/ftv-news.png" group-title="台灣新聞",民視新聞
 https://live2022.stream-link.org/tv-live/0bd4cdd830bbe093e2e9e25fb3f463f9
-#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新聞" tvg-logo="https://or00.stream-link.org/tv_logo/global-news.png" group-title="台灣新聞",寰宇新聞
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇國際新聞" tvg-logo="https://or00.stream-link.org/tv_logo/global-news.png" group-title="台灣新聞",寰宇國際新聞
+https://live2022.stream-link.org/tv-live/5b07a8b109061aaecb71321a16bca09d
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇台灣新聞" tvg-logo="https://or00.stream-link.org/tv_logo/global-news.png" group-title="台灣新聞",寰宇台灣新聞
 https://live2022.stream-link.org/tv-live/aaf73064b60b95de73b57885457849af
 #EXTINF:-1 tvg-id="6108" tvg-name="三立財經新聞" tvg-logo="https://or00.stream-link.org/tv_logo/set-finance.png" group-title="台灣新聞",三立財經新聞
 https://live2022.stream-link.org/tv-live/facd38a3e8cfe0e05c0d39a958d12e25
 #EXTINF:-1 tvg-id="6072" tvg-name="三立新聞" tvg-logo="https://or00.stream-link.org/tv_logo/set-news.png" group-title="台灣新聞",三立新聞
 https://live2022.stream-link.org/tv-live/cfa9d20f65c8a0d0dd8cb64acf7208cb
+#EXTINF:-1 tvg-id="6072" tvg-name="三立新聞+" tvg-logo="https://or00.stream-link.org/tv_logo/set-news.png" group-title="台灣新聞",三立新聞+
+https://live2022.stream-link.org/tv-live/5ecdf4a897b760b7a7a8fd02a64692c9
 #EXTINF:-1 tvg-id="6143" tvg-name="台視新聞" tvg-logo="https://or00.stream-link.org/tv_logo/ttv-news.png" group-title="台灣新聞",台視新聞
 https://live2022.stream-link.org/tv-live/62105c56f4541ca6be873987198d97b1
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新聞" tvg-logo="https://or00.stream-link.org/tv_logo/tvbs-news.png" group-title="台灣新聞",TVBS新聞
