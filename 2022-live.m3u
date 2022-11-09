@@ -1,28 +1,4 @@
 #EXTM3
-#EXTINF:-1 tvg-id="130" tvg-name="無綫新聞台" tvg-logo="https://or00.stream-link.org/tv_logo/tvb-news.png" group-title="TVB",無綫新聞台
-https://live2021.stream-link.org/tv-live/55a5f191f3de405c7136b129e8f66c82
-#EXTINF:-1 tvg-id="133" tvg-name="無綫財經·體育·資訊台" tvg-logo="https://or00.stream-link.org/tv_logo/tvb-finance.png" group-title="TVB",無綫財經·體育·資訊台
-https://live2021.stream-link.org/tv-live/71a3596b58e2d4d3a640dad3d902fa2b
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://or00.stream-link.org/tv_logo/rthk31.png" group-title="RTHK",港台电视31
-https://live2021.stream-link.org/tv-live/fd88c51ec46e493f19d6ae6ec8086b96
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="https://or00.stream-link.org/tv_logo/rthk32.png" group-title="RTHK",港台电视32
-https://live2021.stream-link.org/tv-live/131e524219ddf7e1e344dc7920371cc8
-#EXTINF:-1 tvg-id="130" tvg-name="無綫新聞台" tvg-logo="https://or00.stream-link.org/tv_logo/tvb-news.png" group-title="TVB",無綫新聞台(720P)
-https://live2021.stream-link.org/tv-live/dcf8306fc91480ef677aff2f29eb353a
-#EXTINF:-1 tvg-id="133" tvg-name="無綫財經·體育·資訊台" tvg-logo="https://or00.stream-link.org/tv_logo/tvb-finance.png" group-title="TVB",無綫財經·體育·資訊台(720P)
-https://live2021.stream-link.org/tv-live/b43d5ccc33eee88d5fa42aa02ec6ddab
-#EXTINF:-1 tvg-id="7122" tvg-name="有線新聞台" tvg-logo="https://or00.stream-link.org/tv_logo/hkc-news.png" group-title="有線電視",有線新聞台
-https://live2021.stream-link.org/tv-live/3fd2596337b66c94aa6f75692af30c96?profile=matroska
-#EXTINF:-1 tvg-id="7119" tvg-name="有線財經資訊台" tvg-logo="https://or00.stream-link.org/tv_logo/hkc-finance.png" group-title="有線電視",有線財經資訊台
-https://live2021.stream-link.org/tv-live/32fe385c46db8155a71dfce9438eb8a0?profile=matroska
-#EXTINF:-1 tvg-id="9999" tvg-name="now新聞台" tvg-logo="https://or00.stream-link.org/tv_logo/now-news.png" group-title="now TV",now新聞
-https://live2021.stream-link.org/tv-live/0dcc1f214aa46cdb3aef0546e51d3171
-#EXTINF:-1 tvg-id="9999" tvg-name="now財經台" tvg-logo="https://or00.stream-link.org/tv_logo/now-finance.png" group-title="now TV",now財經台
-https://live2021.stream-link.org/tv-live/37a2ad8c3693a761973e69bdb3fdb682
-#EXTINF:-1 tvg-id="142" tvg-name="鳳凰資訊" tvg-logo="https://or00.stream-link.org/tv_logo/phtv-info.png" group-title="鳳凰衛視",鳳凰資訊台
-https://live2021.stream-link.org/tv-live/e1ad5eb8d8673ac356c9733631264a98
-#EXTINF:-1 tvg-id="141" tvg-name="鳳凰中文" tvg-logo="https://or00.stream-link.org/tv_logo/phtv-live.png" group-title="鳳凰衛視",鳳凰中文台
-https://live2021.stream-link.org/tv-live/f825c0e64b82bd92e4cc65c122197503
 
 #EXTINF:-1 tvg-id="416" tvg-name="翡翠台1" tvg-logo="https://or00.stream-link.org/tv_logo/tvb-jade.png" group-title="TVB",翡翠台1
 https://live2022.stream-link.org/tv-live/1798ff4e15e4e6d28adbb6a49c182ba9
