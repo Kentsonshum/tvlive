@@ -1,4 +1,18 @@
 #EXTM3
+#EXTINF:-1 tvg-id="416" tvg-name="翡翠台" tvg-logo="https://or00.stream-link.org/tv_logo/tvb-jade.png" group-title="TVB",翡翠台
+https://live2021.stream-link.org/tv-live/c5edb099ee6bcb2f67f467384cb195e1
+#EXTINF:-1 tvg-id="130" tvg-name="無綫新聞台" tvg-logo="https://or00.stream-link.org/tv_logo/tvb-news.png" group-title="TVB",無綫新聞台
+https://live2021.stream-link.org/tv-live/ee274e3ddbdc56fd3aebd9289d7d5c31
+#EXTINF:-1 tvg-id="133" tvg-name="無綫財經·體育·資訊台" tvg-logo="https://or00.stream-link.org/tv_logo/tvb-finance.png" group-title="TVB",無綫財經·體育·資訊台
+https://live2021.stream-link.org/tv-live/9b562f56883f1e62b687691d9e484476
+#EXTINF:-1 tvg-id="7122" tvg-name="有線新聞台" tvg-logo="https://or00.stream-link.org/tv_logo/hkc-news.png" group-title="有線電視",有線新聞台
+https://live2021.stream-link.org/tv-live/41d799a90a62370fd31714d6f15fd99e?profile=matroska
+#EXTINF:-1 tvg-id="7119" tvg-name="有線財經資訊台" tvg-logo="https://or00.stream-link.org/tv_logo/hkc-finance.png" group-title="有線電視",有線財經資訊台
+https://live2021.stream-link.org/tv-live/66144242a2f890e378a65ff35191bf81?profile=matroska
+#EXTINF:-1 tvg-id="9999" tvg-name="now新聞台" tvg-logo="https://or00.stream-link.org/tv_logo/now-news.png" group-title="now TV",now新聞
+https://live2021.stream-link.org/tv-live/e3df410d380a6b8633a1b75981084502
+#EXTINF:-1 tvg-id="9999" tvg-name="now財經台" tvg-logo="https://or00.stream-link.org/tv_logo/now-finance.png" group-title="now TV",now財經台
+https://live2021.stream-link.org/tv-live/400d0ee2587a1afc0d157cab9e894109
 
 #EXTINF:-1 tvg-id="416" tvg-name="翡翠台1" tvg-logo="https://or00.stream-link.org/tv_logo/tvb-jade.png" group-title="TVB",翡翠台1
 https://live2022.stream-link.org/tv-live/1798ff4e15e4e6d28adbb6a49c182ba9
