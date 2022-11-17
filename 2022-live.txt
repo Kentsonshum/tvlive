@@ -18,8 +18,11 @@
 now新聞,https://2020.stream-link.org/playlist/now_news
 now財經,https://2020.stream-link.org/playlist/now_finance
 now精選體育,https://2020.stream-link.org/playlist/now_sports
-鳳凰中文台,https://2020.stream-link.org/playlist/ph_live
-鳳凰資訊台,https://2020.stream-link.org/playlist/ph_info
+鳳凰中文台,https://2020.stream-link.org/playlist/phtv_live
+鳳凰資訊台,https://2020.stream-link.org/playlist/phtv_info
+澳門蓮花衛視,https://2020.stream-link.org/playlist/macau_lotustv
+鳳凰資訊台,https://2020.stream-link.org/playlist/phtv_info
+鳳凰資訊台,https://2020.stream-link.org/playlist/phtv_info
 東森新聞,https://2020.stream-link.org/playlist/ebc_news
 東森新聞,https://2020.stream-link.org/playlist/ebc_news_0
 東森財經新聞,https://2020.stream-link.org/playlist/ebc_finance
@@ -71,8 +74,9 @@ CN卡通,https://2020.stream-link.org/playlist/cartoon
 now新聞,https://2021.stream-link.org/t2021/now_news
 now財經,https://2021.stream-link.org/t2021/now_finance
 now精選體育,https://2021.stream-link.org/t2021/now_sports
-鳳凰中文台,https://2021.stream-link.org/t2021/ph_live
-鳳凰資訊台,https://2021.stream-link.org/t2021/ph_info
+鳳凰中文台,https://2021.stream-link.org/t2021/phtv_live
+鳳凰資訊台,https://2021.stream-link.org/t2021/phtv_info
+澳門蓮花衛視,https://2021.stream-link.org/playlist/macau_lotustv
 東森新聞,https://2021.stream-link.org/t2021/ebc_news
 東森新聞,https://2021.stream-link.org/t2021/ebc_news_0
 東森財經新聞,https://2021.stream-link.org/t2021/ebc_finance
