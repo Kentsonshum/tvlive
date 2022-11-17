@@ -53,7 +53,7 @@ MOMO亲子台,https://2020.stream-link.org/playlist/momo
 CN卡通,https://2020.stream-link.org/playlist/cartoon
 東森yoyo,https://2020.stream-link.org/playlist/ebc_yoyo
 
-2021,#genre#無限制IP
+2021,#genre#無限制3IP
 無綫新聞台(720P),https://2021.stream-link.org/t2021/tvb_news
 無綫財經·體育·資訊台(720P),https://2021.stream-link.org/t2021/tvb_news
 香港開電視,https://2021.stream-link.org/t2021/hoy
