@@ -2,7 +2,7 @@
 翡翠台,https://2022.stream-link.org/playlist/tvb_jade
 華麗(翡翠)台,https://2022.stream-link.org/playlist/astro_jade
 無綫新聞台(720P),https://2022.stream-link.org/playlist/tvb_news
-無綫財經·體育·資訊台(720P),https://2022.stream-link.org/playlist/tvb_news
+無綫財經·體育·資訊台(720P),https://2022.stream-link.org/playlist/tvb_finance
 有線新聞,https://2022.stream-link.org/playlist/cable_news
 有線財經,https://2022.stream-link.org/playlist/cable_finance
 
@@ -11,7 +11,7 @@
 翡翠台,https://2020.stream-link.org/playlist/tvb_jade
 華麗(翡翠)台,https://2020.stream-link.org/playlist/astro_jade
 無綫新聞台(720P),https://2020.stream-link.org/playlist/tvb_news
-無綫財經·體育·資訊台(720P),https://2020.stream-link.org/playlist/tvb_news
+無綫財經·體育·資訊台(720P),https://2020.stream-link.org/playlist/tvb_finance
 有線新聞,https://2020.stream-link.org/playlist/cable_news
 有線財經,https://2020.stream-link.org/playlist/cable_finance
 香港開電視,https://2020.stream-link.org/playlist/hoy
@@ -64,7 +64,7 @@ CN卡通,https://2020.stream-link.org/playlist/cartoon
 翡翠台,https://2021.stream-link.org/t2021/tvb_jade
 華麗(翡翠)台,https://2021.stream-link.org/t2021/astro_jade
 無綫新聞台(720P),https://2021.stream-link.org/t2021/tvb_news
-無綫財經·體育·資訊台(720P),https://2021.stream-link.org/t2021/tvb_news
+無綫財經·體育·資訊台(720P),https://2021.stream-link.org/t2021/tvb_finance
 有線新聞,https://2021.stream-link.org/t2021/cable_news
 有線財經,https://2021.stream-link.org/t2021/cable_finance
 香港開電視,https://2021.stream-link.org/t2021/hoy
