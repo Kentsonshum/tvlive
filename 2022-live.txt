@@ -1,4 +1,20 @@
 
+2022,#genre#國內單IP
+翡翠台,http://2022.stream-link.org/playlist/tvb_jade
+華麗(翡翠)台,http://2022.stream-link.org/playlist/astro_jade
+無綫新聞台(720P),http://2022.stream-link.org/playlist/tvb_news
+無綫財經·體育·資訊台(720P),http://2022.stream-link.org/playlist/tvb_finance
+有線新聞,http://2022.stream-link.org/playlist/cable_news
+有線財經,http://2022.stream-link.org/playlist/cable_finance
+
+2023,#genre#國內單IP
+翡翠台,http://2023.stream-link.org/playlist/tvb_jade
+華麗(翡翠)台,http://2023.stream-link.org/playlist/astro_jade
+無綫新聞台(720P),http://2023.stream-link.org/playlist/tvb_news
+無綫財經·體育·資訊台(720P),http://2023.stream-link.org/playlist/tvb_finance
+有線新聞,http://2023.stream-link.org/playlist/cable_news
+有線財經,http://2023.stream-link.org/playlist/cable_finance
+
 2020,#genre#國內雙IP
 翡翠台,https://2020.stream-link.org/playlist/tvb_jade
 華麗(翡翠)台,https://2020.stream-link.org/playlist/astro_jade
