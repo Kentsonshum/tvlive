@@ -68,10 +68,6 @@ http://2022.stream-link.org/playlist/cts
 http://2022.stream-link.org/playlist/ttv
 #EXTINF:-1 tvg-id="7134" tvg-name="民視台灣台" tvg-logo="https://or00.stream-link.org/tv_logo/ftv-tw.png" group-title="台灣綜藝",民視台灣台
 http://2022.stream-link.org/playlist/ftv_tw
-#EXTINF:-1 tvg-id="6046" tvg-name="八大綜藝台" tvg-logo="https://or00.stream-link.org/tv_logo/gtv-zy.png" group-title="台灣綜藝",八大綜藝台
-http://2022.stream-link.org/playlist/gtv_zy
-#EXTINF:-1 tvg-id="6046" tvg-name="八大精彩台" tvg-logo="https://or00.stream-link.org/tv_logo/gtv-jc.png" group-title="台灣綜藝",八大精彩台
-http://2022.stream-link.org/playlist/gtv_jc
 #EXTINF:-1 tvg-id="7138" tvg-name="TVBS精彩台" tvg-logo="https://or00.stream-link.org/tv_logo/tvbs-jc.png" group-title="台灣綜藝",TVBS精彩台
 http://2022.stream-link.org/playlist/tvbs_jc
 #EXTINF:-1 tvg-id="6060" tvg-name="TVBS歡樂台" tvg-logo="https://or00.stream-link.org/tv_logo/tvbs-hl.png" group-title="台灣綜藝",TVBS歡樂台
@@ -80,8 +76,6 @@ http://2022.stream-link.org/playlist/tvbs_hl
 http://2022.stream-link.org/playlist/cti_zh
 #EXTINF:-1 tvg-id="" tvg-name="台灣綜藝節目" tvg-logo="https://or00.stream-link.org/tv_logo/set-zh.png" group-title="台灣綜藝",三立綜合台
 http://2022.stream-link.org/playlist/set_zh
-#EXTINF:-1 tvg-id="7145" tvg-name="民視綜藝台" tvg-logo="https://or00.stream-link.org/tv_logo/ftv-zy.png" group-title="台灣綜藝",民視綜藝台
-http://2022.stream-link.org/playlist/ftv_zy
 #EXTINF:-1 tvg-id="" tvg-name="台灣綜藝節目" tvg-logo="https://or00.stream-link.org/tv_logo/cts-zy.png" group-title="台灣綜藝",天才衝衝衝
 http://2022.stream-link.org/playlist/cts_zy
 #EXTINF:-1 tvg-id="6069" tvg-name="東森yoyo" tvg-logo="https://or00.stream-link.org/tv_logo/ebc-yoyo.png" group-title="兒童節目",東森yoyo
@@ -96,4 +90,12 @@ http://2022.stream-link.org/playlist/momo
 http://2022.stream-link.org/playlist/cartoon
 #EXTINF:-1 tvg-id="9999" tvg-name="Love Nature" tvg-logo="https://or00.stream-link.org/tv_logo/nature.png" group-title="旅游&休閒",Love Nature
 http://2022.stream-link.org/playlist/love_nature
+#EXTINF:-1 tvg-id="9999" tvg-name="民視旅遊" tvg-logo="https://or00.stream-link.org/tv_logo/ftv-travel.png" group-title="旅游&休閒",民視旅遊
+http://2022.stream-link.org/playlist/ftv_travel
+#EXTINF:-1 tvg-id="6172" tvg-name="亞洲旅遊" tvg-logo="https://or00.stream-link.org/tv_logo/asia-travel.png" group-title="旅游&休閒",亞洲旅遊
+http://2022.stream-link.org/playlist/asia_travel
+#EXTINF:-1 tvg-id="9999" tvg-name="愛爾達生活旅遊" tvg-logo="https://or00.stream-link.org/tv_logo/elta-travel.png" group-title="旅游&休閒",愛爾達生活旅遊
+http://2022.stream-link.org/playlist/elta_travel
+#EXTINF:-1 tvg-id="9999" tvg-name="中天美食旅遊" tvg-logo="https://or00.stream-link.org/tv_logo/cti-travel.png" group-title="旅游&休閒",中天美食旅遊
+http://2022.stream-link.org/playlist/cti_travel
 
