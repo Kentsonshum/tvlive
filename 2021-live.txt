@@ -18,7 +18,6 @@ now精選體育,http://2021.stream-link.org/playlist/now_sports
 東森新聞,http://2021.stream-link.org/playlist/ebc_news
 東森財經新聞,http://2021.stream-link.org/playlist/ebc_finance
 中天新聞,http://2021.stream-link.org/playlist/cti_news
-華視新聞,http://2021.stream-link.org/playlist/cts_news
 中視新聞,http://2021.stream-link.org/playlist/ctv_news
 民視新聞,http://2021.stream-link.org/playlist/ftv_news
 寰宇國際新聞,http://2021.stream-link.org/playlist/global_news
@@ -35,8 +34,6 @@ TVBS,http://2021.stream-link.org/playlist/tvbs
 華視,http://2021.stream-link.org/playlist/cts
 台視,http://2021.stream-link.org/playlist/ttv
 三立綜合台,http://2021.stream-link.org/playlist/set_zh
-八大綜藝台,http://2021.stream-link.org/playlist/gtv_zy
-八大精彩台,http://2021.stream-link.org/playlist/gtv_jc
 TVBS精彩台,http://2021.stream-link.org/playlist/tvbs_jc
 TVBS歡樂台,http://2021.stream-link.org/playlist/tvbs_hl
 中天綜合台,http://2021.stream-link.org/playlist/cti_zh
@@ -45,8 +42,4 @@ TVBS歡樂台,http://2021.stream-link.org/playlist/tvbs_hl
 Love Nature,http://2021.stream-link.org/playlist/love_nature
 爱尔达生活旅游台,http://2021.stream-link.org/playlist/elta_travel
 中天美食旅游,http://2021.stream-link.org/playlist/cti_travel
-Nick Jr. 儿童频道,http://2021.stream-link.org/playlist/nick_jr
-尼克儿童频道,http://2021.stream-link.org/playlist/nickelodeon
-MOMO亲子台,http://2021.stream-link.org/playlist/momo
-CN卡通,http://2021.stream-link.org/playlist/cartoon
 東森yoyo,http://2021.stream-link.org/playlist/ebc_yoyo
