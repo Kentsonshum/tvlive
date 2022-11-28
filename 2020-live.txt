@@ -16,7 +16,6 @@ now精選體育,http://2020.stream-link.org/playlist/now_sports
 東森新聞,http://2020.stream-link.org/playlist/ebc_news
 東森財經新聞,http://2020.stream-link.org/playlist/ebc_finance
 中天新聞,http://2020.stream-link.org/playlist/cti_news
-華視新聞,http://2020.stream-link.org/playlist/cts_news
 中視新聞,http://2020.stream-link.org/playlist/ctv_news
 民視新聞,http://2020.stream-link.org/playlist/ftv_news
 寰宇國際新聞,http://2020.stream-link.org/playlist/global_news
@@ -28,7 +27,6 @@ now精選體育,http://2020.stream-link.org/playlist/now_sports
 TVBS新聞,http://2020.stream-link.org/playlist/tvbs_news
 TVBS,http://2020.stream-link.org/playlist/tvbs
 華視天才衝衝衝,http://2020.stream-link.org/playlist/cts_zy
-台視,http://2020.stream-link.org/playlist/ttv
 三立綜合台,http://2020.stream-link.org/playlist/set_zh
 TVBS精彩台,http://2020.stream-link.org/playlist/tvbs_jc
 中天綜合台,http://2020.stream-link.org/playlist/cti_zh
