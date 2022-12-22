@@ -1,6 +1,6 @@
 
 2020,#genre#
-翡翠台,http://2020.stream-link.org/h265/tvb_jade
+翡翠台,http://2020.stream-link.org/playlist/tvb_jade
 華麗(翡翠)台,http://2020.stream-link.org/playlist/astro_jade
 八度空間,http://2020.stream-link.org/playlist/8tv
 無綫新聞台,http://2020.stream-link.org/playlist/tvb_news
