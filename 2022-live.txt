@@ -31,9 +31,7 @@ now精選體育,https://2022.stream-link.org/playlist/now_sports
 TVBS新聞,https://2022.stream-link.org/playlist/tvbs_news
 TVBS財經,https://2022.stream-link.org/playlist/tvbs
 華視天才衝衝衝,https://2022.stream-link.org/playlist/cts_zy
-三立綜合台,https://2022.stream-link.org/playlist/set_zh
 台視,https://2022.stream-link.org/playlist/ttv
 中天綜合台,https://2022.stream-link.org/playlist/cti_zh
-Love Nature,https://2022.stream-link.org/playlist/love_nature
 東森yoyo,https://2022.stream-link.org/playlist/ebc_yoyo
-華視(2023台中新站跨年演唱會),https://2022.stream-link.org/playlist/cts_2023
+
