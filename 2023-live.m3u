@@ -15,8 +15,10 @@ https://2023.stream-link.org/playlist/rthk_32.tv
 https://2023.stream-link.org/playlist/cable_news.tv
 #EXTINF:-1 tvg-id="7119" tvg-name="有線財經資訊台" tvg-logo="https://or00.stream-link.org/tv_logo/cable-finance.png" group-title="有線電視",有線財經資訊台
 https://2023.stream-link.org/playlist/cable_finance.tv
-#EXTINF:-1 tvg-id="7118" tvg-name="香港開電視" tvg-logo="https://or00.stream-link.org/tv_logo/hoy.png" group-title="有線電視",香港開電視
-https://2023.stream-link.org/playlist/hoy.tv
+#EXTINF:-1 tvg-id="7118" tvg-name="HOY_TV" tvg-logo="https://or00.stream-link.org/tv_logo/hoy-tv.png" group-title="奇妙電視",HOY TV
+https://2023.stream-link.org/playlist/hoy_tv.tv
+#EXTINF:-1 tvg-id="7118" tvg-name="HOY_INFO" tvg-logo="https://or00.stream-link.org/tv_logo/hoy-info.png" group-title="奇妙電視",HOY資訊台
+https://2023.stream-link.org/playlist/hoy_info.tv
 #EXTINF:-1 tvg-id="142" tvg-name="鳳凰資訊" tvg-logo="https://or00.stream-link.org/tv_logo/phtv-info.png" group-title="鳳凰衛視",鳳凰資訊台
 https://2023.stream-link.org/playlist/phtv_info.tv
 #EXTINF:-1 tvg-id="141" tvg-name="鳳凰中文" tvg-logo="https://or00.stream-link.org/tv_logo/phtv-live.png" group-title="鳳凰衛視",鳳凰中文台
