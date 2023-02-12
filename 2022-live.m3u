@@ -27,3 +27,25 @@ http://2022.stream-link.org/playlist/phtv_info.ts
 http://2022.stream-link.org/playlist/phtv_live.ts
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/macault.png" group-title="澳門蓮花衛視",澳門蓮花衛視
 http://2022.stream-link.org/playlist/macau_lotustv.ts
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/abc-news.png" group-title="News",ABC News
+http://2022.stream-link.org/playlist/abc_news.ts
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/ann-news.png" group-title="News",ANN News
+http://2022.stream-link.org/playlist/ann_news.ts
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/asianet-news.png" group-title="News",Asianet News
+http://2022.stream-link.org/playlist/asianet_news.ts
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/cna-news.png" group-title="News",CNA News
+http://2022.stream-link.org/playlist/cna_news.ts
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/dw-news.png" group-title="News",DW News
+http://2022.stream-link.org/playlist/dw_news.ts
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/euro-news.png" group-title="News",EURO News
+http://2022.stream-link.org/playlist/euro_news.ts
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/france-24E.png" group-title="News",France 24 English
+http://2022.stream-link.org/playlist/france_24e.ts
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/gb-news.png" group-title="News",GB News
+http://2022.stream-link.org/playlist/gb_news.ts
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/haber_turk.png" group-title="News",Haber Turk
+http://2022.stream-link.org/playlist/haber_turk.ts
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/nbc-news.png" group-title="News",NBC News
+http://2022.stream-link.org/playlist/nbc_news.ts
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/tbs-news.png" group-title="News",TBS News DIG
+http://2022.stream-link.org/playlist/tbs_news.ts
