@@ -47,5 +47,3 @@ http://2022.stream-link.org/playlist/gb_news.ts
 http://2022.stream-link.org/playlist/haber_turk.ts
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/nbc-news.png" group-title="News",NBC News
 http://2022.stream-link.org/playlist/nbc_news.ts
-#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/tbs-news.png" group-title="News",TBS News DIG
-http://2022.stream-link.org/playlist/tbs_news.ts
