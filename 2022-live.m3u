@@ -25,6 +25,10 @@ http://2022.stream-link.org/live/322793772
 http://2022.stream-link.org/live/237166685
 #EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="http://or00.stream-link.org/tv_logo/hkibc.png" group-title="奇妙電視",香港國際財經台
 http://2022.stream-link.org/live/1737572864
+#EXTINF:-1 tvg-id="142" tvg-name="鳳凰資訊" tvg-logo="http://or00.stream-link.org/tv_logo/phtv-info.png" group-title="鳳凰衛視",鳳凰資訊台
+http://2022.stream-link.org/live/1770675188
+#EXTINF:-1 tvg-id="141" tvg-name="鳳凰中文" tvg-logo="http://or00.stream-link.org/tv_logo/phtv-live.png" group-title="鳳凰衛視",鳳凰中文台
+http://2022.stream-link.org/live/322460831
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/abc-news-australia.png" group-title="News",ABC News Australia
 http://2022.stream-link.org/live/913166695
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/abc-news.png" group-title="News",ABC News
