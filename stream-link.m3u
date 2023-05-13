@@ -37,6 +37,8 @@ https://2022.stream-link.org/list.php?id=e003
 https://2022.stream-link.org/list.php?id=e004
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/bbc-news.png" group-title="News",BBC News
 https://2022.stream-link.org/list.php?id=e005
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/bloomberg.png" group-title="News",Bloomberg
+https://2022.stream-link.org/list.php?id=e021
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/cna-news.png" group-title="News",CNA News
 https://2022.stream-link.org/list.php?id=e006
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://www.stream-link.org/tv_logo/cnn-live.png" group-title="News",CNN Live
@@ -95,8 +97,6 @@ https://2022.stream-link.org/list.php?id=t012
 https://2022.stream-link.org/list.php?id=t013
 #EXTINF:-1 tvg-id="6074" tvg-name="TVBS財經" tvg-logo="http://www.stream-link.org/tv_logo/tvbs.png" group-title="台灣新聞",TVBS財經
 https://2022.stream-link.org/list.php?id=t014
-#EXTINF:-1 tvg-id="6054" tvg-name="中天綜合台" tvg-logo="http://www.stream-link.org/tv_logo/cti-zh.png" group-title="台灣綜藝",中天綜合台
-https://2022.stream-link.org/list.php?id=t015
 #EXTINF:-1 tvg-id="9999" tvg-name="中天亞洲台" tvg-logo="http://www.stream-link.org/tv_logo/cti-asia.png" group-title="台灣",中天亞洲台
 https://2022.stream-link.org/list.php?id=t016
 #EXTINF:-1 tvg-id="9999" tvg-name="民視HD" tvg-logo="http://www.stream-link.org/tv_logo/ftv.png" group-title="台灣綜藝",民視HD
