@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="港澳台",民视HD
-https://2022.stream-link.org/4gtv.php?id=minshi_01
+http://sc2022.stream-link.org/4gtv.php?id=minshi_01
 #EXTINF:-1,tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://epg.112114.xyz/logo/民视第一台.png" group-title="港澳台",民视第一台
-https://2022.stream-link.org/4gtv.php?id=minshi_02
+http://sc2022.stream-link.org/4gtv.php?id=minshi_02
 #EXTINF:-1,tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://epg.112114.xyz/logo/民视台湾台.png" group-title="台湾",民视台湾台
-https://2022.stream-link.org/4gtv.php?id=minshi_03
+http://sc2022.stream-link.org/4gtv.php?id=minshi_03
 #EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="港澳台",民视新闻台
-https://2022.stream-link.org/4gtv.php?id=minshi_04
+http://sc2022.stream-link.org/4gtv.php?id=minshi_04
 #EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="港澳台",民视影剧台
-https://2022.stream-link.org/4gtv.php?id=minshi_05
+http://sc2022.stream-link.org/4gtv.php?id=minshi_05
 #EXTINF:-1,tvg-id="民视综艺台" tvg-name="民视综艺台" tvg-logo="https://epg.112114.xyz/logo/民视综艺台.png" group-title="港澳台",民视综艺台
-https://2022.stream-link.org/4gtv.php?id=minshi_06
+http://sc2022.stream-link.org/4gtv.php?id=minshi_06
 #EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="港澳台",民视旅游台
-https://2022.stream-link.org/4gtv.php?id=minshi_06
+http://sc2022.stream-link.org/4gtv.php?id=minshi_06
